@@ -13,7 +13,7 @@ A mod to enhance your aming experience, in minecraft java edition.
     `https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html`<br/>
 
 ## Getting Started
-- Download forge 1.8.9
+- Download & install forge (version 1.8.9)
 - Download .jar file from this repository
 - Put .jar file in mods folder & launch minecraft
 
