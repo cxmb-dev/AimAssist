@@ -21,5 +21,5 @@ A mod to enhance your aming experience, in minecraft java edition.
 - This was made by cxmb using java
 
 ## Usage
-- Open GUI: /baa menu/gui
-- Toggle aim assist: /baa toggle
+- Open GUI: '/baa menu/gui'
+- Toggle aim assist: '/baa toggle'
