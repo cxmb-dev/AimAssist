@@ -21,5 +21,5 @@ A mod to enhance your aming experience, in minecraft java edition.
 - This was made by cxmb using java
 
 ## Usage
-- THIS IS FOR EDUCATIONAL PURPOSES ONLY
-- PLEASE DO NOT USE THIS ON SERVERS THAT DOES NOT ALLOW IT!
+- OPEN GUI: /baa menu/gui
+- TOGGLE AIM ASSIST: /baa toggle
